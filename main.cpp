@@ -1,9 +1,9 @@
 /*
   main.cpp
-	Convert .ltb to .x files
-	
-	written by Perez on 07-01-2013
-	Copyright (c) 2013 Perezhk's Blog. All Rights reserved.
+  Convert .ltb to .x files
+  
+  written by Perez on 07-01-2013
+  Copyright (c) 2013 Perezhk's Blog. All Rights reserved.
 */
 
 #include "stdafx.h"
