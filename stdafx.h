@@ -12,7 +12,7 @@ typedef uint32_t uint32;
 typedef unsigned int uint;
 
 struct Vector2D {
-  float x;
+  	float x;
 	float y;
 };
 struct Vector3D {
